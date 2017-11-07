@@ -1,9 +1,0 @@
-../data/expressionsTr.gz ../data/expressionsTe.gz 8 48.0
- m =
-
-   14    0    0    3    0
-    0    8    0    0    0
-    0    3    4    1    0
-    0    0    0    5    1
-    0    0    0    0    9
-
